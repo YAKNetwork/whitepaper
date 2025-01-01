@@ -1,8 +1,6 @@
 # Abstract
 
-LLM has changed the world significantly during the last 2 years, and AI Agent is the road we must take to the future Web3.
-
-One of the biggest obstacle of Web3 mass adoption is the confidentiality and privacy protection.
+LLM has changed the world significantly during the last two years, and AI Agent is the road we must take to the future Web3.
 
 YAK, shorten for Your Autonomous Knowledgebase, introduces a privacy-preserving agent network via verctizing the world with structured semantic expression, and leverages the LLMs to build the universal connecting network for the Web3 world.
 
