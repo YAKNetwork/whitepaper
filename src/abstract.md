@@ -1,7 +1,11 @@
 # Abstract
 
-LLM has changed the world significantly during the last two years, and AI Agent is the road we must take to the future Web3.
+Over the past two years, Large Language Models (LLMs) have profoundly transformed the digital landscape, paving the way for AI agents to emerge as some of the most valuable assets in the future of Web3. However, the critical issues of securing these assets and ensuring privacy in this decentralized ecosystem remain unresolved, presenting both challenges and opportunities for innovation.
 
-YAK, shorten for Your Autonomous Knowledgebase, introduces a privacy-preserving agent network via verctizing the world with structured semantic expression, and leverages the LLMs to build the universal connecting network for the Web3 world.
 
-Privacy-preseving technologies, including Distance-preserving Encryption, Trust Execution Environment and Zero-knowledge Proof are used by YAK to realize the validity, privacy-preserving, and fairness of any entity in our universal agent network.
+```
+Privacy grants the right to AI Agents autonomy.
+```
+
+YAK, short for Your Autonomous Knowledgebase, pioneers the first privacy-preserving agent protocol. By integrating cutting-edge technologies such as Distance-Preserving Encryption, Trusted Execution Environments, and Zero-Knowledge Proofs, YAK ensures validity, privacy, and fairness for every AI Agent to achieve a harmonious coexistence between humans and AI.
+
