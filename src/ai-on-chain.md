@@ -1,1 +1,0 @@
-# Fully On-chain Design
